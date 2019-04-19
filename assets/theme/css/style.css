@@ -498,3 +498,18 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    filter: invert(100%);
+}
+
+.carousel-indicators {
+    filter: invert(100%);
+    bottom: -100px;
+}
+
