@@ -508,8 +508,9 @@ nav .mbr-section-btn {
     filter: invert(100%);
 }
 
-.carousel-indicators {
-    filter: invert(100%);
-    bottom: -100px;
+.carousel-caption {
+    color: white;
+    background: rgba(0, 0, 0, 0.575);
+    border-radius: 10px;
 }
 
